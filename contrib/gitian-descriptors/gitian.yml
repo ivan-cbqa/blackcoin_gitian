@@ -1,7 +1,7 @@
 ---
 name: "blackcoin"
 suites:
-- "precise"
+- "trusty"
 architectures:
 - "i386"
 - "amd64"
